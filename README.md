@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://raw.githubusercontent.com/xxroot/xxroot/main/out/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nanvon&count_private=true&show_icons=true&bg_color=ffffff00&text_color=666666&&hide_border=true" width="380" alt="GitHub Stats" align="right" />
+
+<samp>
+  <ul>
+    <li><strong>Working: </strong>Front-end Development Engineer</li>
+    <li><strong>Listening: </strong>Vae's music 🎵</li>
+    <li><strong>Reading: </strong> WangXiaobo📖</li>
+  </ul>
+</samp>
