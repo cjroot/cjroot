@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <samp>
   <ul>
-    <li><strong>Working: </strong>Front-end Development Engineer</li>
-    <li><strong>Listening: </strong>Vae's music 🎵</li>
-    <li><strong>Reading: </strong> WangXiaobo📖</li>
+    <li><strong>Working: </strong>网络搬砖</li>
+    <li><strong>Listening: </strong>《梦中的婚礼》 🎵</li>
+    <li><strong>Reading: </strong> 《活着》📖</li>
   </ul>
 </samp>
